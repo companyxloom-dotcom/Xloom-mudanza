@@ -1,0 +1,14 @@
+{
+  "enabled": true,
+  "newUrl": "https://PEGA-AQUI-TU-DOMINIO-NUEVO",
+  "title": "¡Xloom Music ya tiene casa propia!",
+  "message": "Por fin estrenamos dominio personalizado con el nombre de la app: se acabaron los links genéricos.\nEsta dirección dejó de recibir actualizaciones, así que para seguir disfrutando de Xloom Music es necesario pasarte a la nueva. Es rápido: copiamos tus playlists, favoritos y ajustes por ti.",
+  "features": [
+    "Dirección propia, fácil de recordar y compartir",
+    "Kai, el asistente por voz que controla toda la app",
+    "Cola inteligente, radio de artistas y modos (estudio, gym, fiesta)",
+    "Todas las actualizaciones futuras"
+  ],
+  "blocking": true,
+  "transferData": true
+}
